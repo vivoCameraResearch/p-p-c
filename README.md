@@ -10,11 +10,6 @@
 </p>
 Traditional crop-based methods (a) focus on learning crop templates for better composition. However, when scenes contain chaotic arrangements of subjects, cropping alone rarely yields satisfactory results. Perspective transformation (b) addresses these challenges by adjusting spatial relationships between subjects (e.g., person and tree, red arrow) and scene orientation.
 
-## Abstract
-Traditional photography composition approaches are dominated by 2D cropping-based methods. However, these methods fall short when scenes contain poorly arranged subjects. Professional photographers often employ perspective adjustment as a form of 3D recomposition, modifying the projected 2D relationships between subjects while maintaining their actual spatial positions to achieve better compositional balance. Inspired by this artistic practice, we propose photography perspective composition (PPC), extending beyond traditional cropping-based methods. However, implementing the PPC faces significant challenges: the scarcity of perspective transformation datasets and undefined assessment criteria for perspective quality. To address these challenges, we present three key contributions: (1) An automated framework for building PPC datasets through expert photographs. (2) A video generation approach that demonstrates the transformation process from suboptimal to optimal perspectives. (3) A perspective quality assessment (PQA) model constructed based on human performance. Our approach is concise and requires no additional prompt instructions or camera trajectories, helping and guiding ordinary users to enhance their composition skills.
-
-
-
 ## Perspective Dataset Construction
 
 <p align="center">
